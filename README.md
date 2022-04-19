@@ -1,2 +1,4 @@
+# JavaProject
+Java项目
 # Design-Patterns
-设计模式代码(Java）
+设计模式
